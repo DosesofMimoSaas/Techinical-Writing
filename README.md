@@ -1,2 +1,2 @@
 # Techinical-Writing
-This shows different projects of technical writings created.
+This shows different examples of technical writings I've worked on.
